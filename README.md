@@ -367,3 +367,8 @@ Regarding `parameter-efficient tuning (prompt/prefix tuning)`, `plug-and-play`, 
 24. **Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning.** *AI2 *  `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.05906)
 25. **A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation.** *Moin Nadeem, Tianxing He, Kyunghyun Cho, James Glass.*  `AACL 2020` [[pdf]](https://arxiv.org/abs/2009.07243)
 26. **The Curious Case of Neural Text Degeneration.** *Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi.* `ICLR 2020` [[pdf]](
+
+#### markdown todolist 示例
+- [ ] 待完成
+- [x] 已完成
+- [ ] ~~未完成~~
