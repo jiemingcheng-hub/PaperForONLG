@@ -30,7 +30,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 
 ## 0. Resource
 
-- [ ] 1. **EVENTS REALM: Event Reasoning of Entity States via Language Models.** *Evangelia Spiliopoulou, Artidoro Pagnoni, Yonatan Bisk, Eduard Hovy.* `EMNLP 2022` [[pdf]](https://arxiv.org/abs/2211.05392)
+1. **EVENTS REALM: Event Reasoning of Entity States via Language Models.** *Evangelia Spiliopoulou, Artidoro Pagnoni, Yonatan Bisk, Eduard Hovy.* `EMNLP 2022` [[pdf]](https://arxiv.org/abs/2211.05392)
 2. **StoryER: Automatic Story Evaluation via Ranking, Rating and Reasoning.** *Hong Chen, Duc Minh Vo, Hiroya Takamura, Yusuke Miyao, Hideki Nakayama.* `EMNLP 2022` [[pdf]](https://arxiv.org/abs/2210.08459)
 3. **PASTA: A Dataset for Modeling Participant States in Narratives.** *Sayontan Ghosh, Mahnaz Koupaee, Isabella Chen, Francis Ferraro, Nathanael Chambers, Niranjan Balasubramanian.* `arxiv 2022` ![](https://img.shields.io/badge/story-navy)
 4. **ChapterBreak: A Challenge Dataset for Long-Range Language Models.** *Simeng Sun, Katherine Thai, Mohit Iyyer.* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.271/) ![](https://img.shields.io/badge/story-navy)
